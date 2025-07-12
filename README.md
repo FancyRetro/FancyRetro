@@ -1,5 +1,6 @@
 <ins><p align="middle">` . 🌑 Mr.Olio's GitHub ⏾⋆.˚</p></ins>
-<img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/31ee34ac-aebd-4edc-b079-7ce61fde4cbe" />
+<img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/58dde5ed-2288-4674-adc4-9919e2555e0f" />
+
 <ins><p align="middle">. . . Welcome to the Github of Mr.Olio . . .</p></ins>
 
 
