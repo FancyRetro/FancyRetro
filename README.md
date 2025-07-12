@@ -3,7 +3,7 @@
 <p align="middle"><ins>`. 🌑 Mr.Olio's GitHub ⏾⋆.˚</ins></p>
 <img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/58dde5ed-2288-4674-adc4-9919e2555e0f" />
 
-<p align="middle"><ins>. . . Welcome to the Github of Mr.Olio . . .</ins></p>
+**<p align="middle">. . . Welcome to the Github of Mr.Olio . . .</p>**
 
 
 
