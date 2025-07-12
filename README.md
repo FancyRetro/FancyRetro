@@ -1,4 +1,4 @@
-<p align="middle">` . 🌑 Mr.Olio's GitHub ⏾⋆.˚</p>
+**<p align="middle">` . 🌑 Mr.Olio's GitHub ⏾⋆.˚</p>**
 <img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/31ee34ac-aebd-4edc-b079-7ce61fde4cbe" />
 <p align="middle">. . . Welcome to the Github of Mr.Olio . . .</p>
 
