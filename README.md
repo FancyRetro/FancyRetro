@@ -3,6 +3,8 @@
 **<p align="middle"><ins>`. 🌑 Mr.Olio's GitHub ⏾⋆.˚</ins></p>**
 <p align="middle">✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦</p>
 <img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/58dde5ed-2288-4674-adc4-9919e2555e0f" />
+<img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/0fe934ff-cefa-42f7-99c2-3c90e2fdd13c" />
+
 
 <p align="middle">✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧</p>
 
