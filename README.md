@@ -1,13 +1,8 @@
 
 
 **<p align="middle"><ins>`. 🌑 Mr.Olio's GitHub ⏾⋆.˚</ins></p>**
-<p align="middle">✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦</p>
-<img width="640" height="451" alt="image" src="https://github.com/user-attachments/assets/58dde5ed-2288-4674-adc4-9919e2555e0f" />
+
 <img width="640" height="481" alt="image" src="https://github.com/user-attachments/assets/00891298-eda4-440d-adca-7d95c53a417c" />
-
-
-
-<p align="middle">✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧</p>
 
 **<p align="middle">. . . Welcome to the Github of Mr.Olio . . .</p>**
 
